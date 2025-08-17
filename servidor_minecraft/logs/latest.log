@@ -2143,3 +2143,27 @@ BCLib - Nether BiomeSource (59700990)
 [20:06:52] [Server thread/INFO]: Loading Xaero's Minimap - Stage 2/2 (Server)
 [20:06:52] [Server thread/INFO]: Loading Xaero's World Map - Stage 2/2 (Server)
 [20:06:54] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3655ms or 73 ticks behind
+[20:22:45] [Server thread/INFO]: [Handshake] Sending channel query
+[20:22:46] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[20:22:46] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[20:22:46] [Server thread/INFO]: Pinlinga[/127.202.22.245:50387] logged in with entity id 341 at (-24.273563983663124, 71.0, -11.852616551982955)
+[20:22:46] [Server thread/INFO]: Sending server config values to client
+[20:22:46] [Server thread/INFO]: Syncing config to Pinlinga (4bbffe0e-936b-3434-b06c-2222f185d675)
+[20:22:47] [Server thread/INFO]: Loading config from file...
+[20:22:48] [Server thread/INFO]: [STDOUT]: Splitting recipes into 10 packets
+[20:22:48] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[20:22:48] [Server thread/INFO]: Pinlinga joined the game
+[20:22:48] [Server thread/INFO]: Loading Configs for Sortilege
+[20:22:48] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enchant_catalyst, show_in_tooltip]", defaulting to true
+[20:22:48] [Server thread/INFO]: Couldn't find config value for path : "[enchantments, enabled_enchants]", defaulting to {}
+[20:22:48] [Server thread/INFO]: Couldn't find config value for path : "[death, xp_keeping, stolen_xp_data]", defaulting to 41
+[20:22:48] [Server thread/INFO]: Couldn't find config value for path : "[death, glowing_killer]", defaulting to true
+[20:22:49] [Server thread/INFO]: Updating all forceload tickets for 4bbffe0e-936b-3434-b06c-2222f185d675
+[20:22:49] [Server thread/INFO]: PLAYER_JOIN
+[20:22:49] [Server thread/INFO]: add_player wand
+[20:22:49] [Server thread/INFO]: config sent
+[20:22:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3541ms or 70 ticks behind
+[20:22:52] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[20:23:01] [Netty Epoll Server IO #3/INFO]: Channel update: Pinlinga -> default
+[20:23:01] [Netty Epoll Server IO #3/INFO]: Priority overwritten for player Pinlinga. Claiming: GRAVE / Robbing: INVENTORY
+[20:23:08] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Pinlinga accepted server config.
